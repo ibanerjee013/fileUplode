@@ -1,0 +1,10 @@
+com\example\filedemo\controller\FileController.class
+com\example\filedemo\FileDemoApplication.class
+com\example\filedemo\payload\UploadFileResponse.class
+com\example\filedemo\parser\Parser.class
+com\example\filedemo\property\FileStorageProperties.class
+com\example\filedemo\jms\Config.class
+com\example\filedemo\service\FileStorageService.class
+com\example\filedemo\exception\FileStorageException.class
+com\example\filedemo\pojo\MessagePogo.class
+com\example\filedemo\exception\MyFileNotFoundException.class
